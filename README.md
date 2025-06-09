@@ -40,8 +40,8 @@ The notebook provides a comprehensive, step-by-step workflow for building a deep
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
-   cd DrowsyDetector
+   git clone [<repo-url>](https://github.com/DeepActionPotential/DrowSeeAI)
+   cd DrowSeeAI
    ```
 2. **Create and activate a virtual environment:**
    ```bash
