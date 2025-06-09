@@ -1,0 +1,5 @@
+/* Hide Streamlit default UI elements */
+#MainMenu, header, footer {
+    visibility: hidden;
+}
+
