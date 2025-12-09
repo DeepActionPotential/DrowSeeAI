@@ -1,7 +1,7 @@
 import streamlit as st
 from ui import upload_image
 from utils import load_model, predict
-
+ 
 # -------------------------------
 # 1) Set the path to your saved model file:
 #    Change this to the correct path where you saved your .pth/.pt
